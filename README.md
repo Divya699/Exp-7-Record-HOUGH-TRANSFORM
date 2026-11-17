@@ -31,7 +31,7 @@ Matplotlib
 
 ## Algorithm & Explanation
 
-### : DIVYA PRIYA S
+### NAME : DIVYA PRIYA S
 ### Register No: 212225240037
 
 ```
